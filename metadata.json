@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Brawl Stars",
+  "description": "An offline, high-performance tactical 2D Battle Royale shooter featuring real-time combat, various legendary brawlers, dynamic abilities, crowd control utility, and custom skins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
